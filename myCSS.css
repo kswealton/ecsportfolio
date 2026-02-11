@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
+	background: ##FFD19A;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: ##9FFFFA;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: ##F78875;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,10 +38,19 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: ##FFD6F5;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	height: 50px;
 	text-align: center;
+}
+a:link {
+     color: ##F72343;
+}
+a:visited {
+     color: ##E478FF;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
