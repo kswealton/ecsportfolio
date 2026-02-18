@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: ##FFD19A;
+	background: #FFD19A;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: ##9FFFFA;
+	background: #9FFFFA;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: ##F78875;
+	background: #F78875;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: ##FFD6F5;
+	background: #FFD6F5;
 	margin: 0px;
 	padding: 0px;
 	float: left;
@@ -47,10 +47,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: ##F72343;
+     color: #F72343;
 }
 a:visited {
-     color: ##E478FF;
+     color: #E478FF;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
