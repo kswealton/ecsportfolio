@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #FFD19A;
+	background: #DE73A1;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #9FFFFA;
+	background: #DE8D76;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #F78875;
+	background: #DF4C44;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,7 +30,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #DC7CDE;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #FFD6F5;
+	background: #DE9564;
 	margin: 0px;
 	padding: 0px;
 	float: left;
@@ -47,7 +47,7 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #F72343;
+     color: ##FAB9CF;
 }
 a:visited {
      color: #E478FF;
