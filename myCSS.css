@@ -4,14 +4,14 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #DE73A1;
+	background: #F5CFC9;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #DE8D76;
+	background: #F5CFC9;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #DF4C44;
+	background: #F5C9E9;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,7 +30,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #DC7CDE;
+	background: ##F5CFC9;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #DE9564;
+	background: #F5B19F;
 	margin: 0px;
 	padding: 0px;
 	float: left;
@@ -47,10 +47,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: ##FAB9CF;
+     color: #C6E1C8;
 }
 a:visited {
-     color: #E478FF;
+     color: #D6E3F3;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
